@@ -26,7 +26,6 @@ This project is a machine learning–based **Sleep Score Predictor** that uses l
 ✔️ Evaluation with RMSE, MAE, R² metrics  
 ✔️ Personalized feedback based on model + health logic  
 ✔️ Interactive user input system  
-✔️ BONUS: Real-time 3D Plotly visualizations of predictions!  
 
 ---
 
@@ -37,4 +36,4 @@ This project is a machine learning–based **Sleep Score Predictor** that uses l
 Make sure you have Python 3.10+ (not 3.13!) and the following libraries installed:
 
 ```bash
-pip install numpy pandas matplotlib seaborn scikit-learn plotly
+pip install numpy pandas matplotlib seaborn scikit-learn
