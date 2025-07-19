@@ -33,7 +33,8 @@ This project is a machine learning–based **Sleep Score Predictor** that uses l
 
 ### 🔧 Prerequisites
 
-Make sure you have Python 3.10+ (not 3.13!) and the following libraries installed:
+Make sure you have **Python 3.8 to 3.11** (✅ Python 3.10 recommended; ❌ avoid Python 3.13) and the following libraries installed:
+
 
 ```bash
 pip install numpy pandas matplotlib seaborn scikit-learn
